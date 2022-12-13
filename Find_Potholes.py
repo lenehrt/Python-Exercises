@@ -13,7 +13,6 @@ for i in range(0, len(S), 3):
     else:
         pass
 
-dude = "testing"
 dudede = "testting_two"
 
 print(newList)
